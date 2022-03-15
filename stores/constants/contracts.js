@@ -1,44 +1,44 @@
 import abis from "../abis";
 
-export const GOV_TOKEN_ADDRESS = '0x888EF71766ca594DED1F0FA3AE64eD2941740A20'
-export const GOV_TOKEN_NAME = 'Solid'
-export const GOV_TOKEN_SYMBOL = 'SOLID'
+export const GOV_TOKEN_ADDRESS = '0x888365Cef16Baf8354Bf1A9A88e548555b7348bF'
+export const GOV_TOKEN_NAME = 'Printy'
+export const GOV_TOKEN_SYMBOL = 'PRINT'
 export const GOV_TOKEN_DECIMALS = 18
 export const GOV_TOKEN_LOGO = 'https://prod.solidly.exchange/Solidly-O.svg'
 export const GOV_TOKEN_ABI = abis.tokenABI
 
-export const VE_TOKEN_ADDRESS = '0xcBd8fEa77c2452255f59743f55A3Ea9d83b3c72b'
+export const VE_TOKEN_ADDRESS = '0x3197713056b8E7358a31E0EC22A1450a6ad18b7d'
 export const VE_TOKEN_NAME = 'veNFT'
 export const VE_TOKEN_SYMBOL = 'veNFT'
 export const VE_TOKEN_DECIMALS = 18
 export const VE_TOKEN_LOGO = 'https://prod.solidly.exchange/Solidly-O.svg'
 export const VE_TOKEN_ABI = abis.veTokenABI
 
-export const WFTM_ADDRESS = '0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83'
-export const WFTM_NAME = 'Wrapped Fantom'
-export const WFTM_SYMBOL = 'WFTM'
-export const WFTM_DECIMALS = 18
-export const WFTM_ABI = abis.wftmABI
+export const WAVAX_ADDRESS = '0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7'
+export const WAVAX_NAME = 'Wrapped Avax'
+export const WAVAX_SYMBOL = 'WAVAX'
+export const WAVAX_DECIMALS = 18
+export const WAVAX_ABI = abis.wavaxABI
 
-export const FTM_ADDRESS = 'FTM'
-export const FTM_NAME = 'Fantom'
-export const FTM_SYMBOL = 'FTM'
-export const FTM_DECIMALS = 18
-export const FTM_LOGO = 'https://assets.coingecko.com/coins/images/4001/large/Fantom.png'
+export const AVAX_ADDRESS = 'AVAX'
+export const AVAX_NAME = 'Avax'
+export const AVAX_SYMBOL = 'AVAX'
+export const AVAX_DECIMALS = 18
+export const AVAX_LOGO = 'https://assets.coingecko.com/coins/images/12559/large/coin-round-red.png'
 
-export const FACTORY_ADDRESS = '0x3fAaB499b519fdC5819e3D7ed0C26111904cbc28'
+export const FACTORY_ADDRESS = '0xc62Ca231Cd2b0c530C622269dA02374134511a36'
 export const FACTORY_ABI = abis.factoryABI
 
-export const ROUTER_ADDRESS = '0xa38cd27185a464914D3046f0AB9d43356B34829D'
+export const ROUTER_ADDRESS = '0x6A8f98d7e34Fd214B428BFc68c9309Ea3C4Fc7F1'
 export const ROUTER_ABI = abis.routerABI
 
-export const VE_DIST_ADDRESS = '0xA5CEfAC8966452a78d6692837b2ba83d19b57d07'
+export const VE_DIST_ADDRESS = '0xFf58CD1a1394A19Efa33F83545081459dfE2dA44'
 export const VE_DIST_ABI = abis.veDistABI
 
-export const VOTER_ADDRESS = '0xdC819F5d05a6859D2faCbB4A44E5aB105762dbaE'
+export const VOTER_ADDRESS = '0x47a3931486a73314D367e4dE2B2FfaC83fa4B81E'
 export const VOTER_ABI = abis.voterABI
 
-export const LIBRARY_ADDRESS = '0x0f68551237a7effe35600524c0dd4989bf8208e9'
+export const LIBRARY_ADDRESS = '0x485D23306A16d17F1fc303D397a3DFe0D879528D'
 export const LIBRARY_ABI = abis.solidlyLibraryABI
 
 export const ERC20_ABI = abis.erc20ABI
@@ -47,4 +47,4 @@ export const GAUGE_ABI = abis.gaugeABI
 export const BRIBE_ABI = abis.bribeABI
 export const TOKEN_ABI = abis.tokenABI
 
-export const MULTICALL_ADDRESS = '0x11473d6e641df17cd6331d45b135e35b49edbea8'
+export const MULTICALL_ADDRESS = '0x1d87DcA40f4F6D737d3A0751906ce99Dc0F0171F'

@@ -1,13 +1,13 @@
 export const colors = {
-  blue: "#2D7DDB",
+  blue: "#0e5c8a",
   red: "#ed4337",
-  orange: "#ffb347",
-  lightBlack: "rgba(0, 0, 0, 0.87)"
+  orange: "#87ff47",
+  lightBlack: "rgba(24, 22, 50, 0.78)"
 };
 
 const coreTheme = {
   shape: {
-    borderRadius: "12px"
+    borderRadius: "5px"
   },
   typography: {
     fontFamily: [
@@ -161,7 +161,7 @@ const coreTheme = {
         borderRadius: "12px",
       },
       "&$selected": {
-        border: '1px solid #06d3d7',
+        border: '1px solid #1e743d',
         backgroundColor: 'rgba(0,0,0,0)'
       }
     },

@@ -46,7 +46,7 @@
 }
 
 .isWhitelist {
-  color: rgb(6, 211, 215) !important;
+  color: rgb(27, 215, 6, 1) !important;
 }
 
 .notWhitelist {
@@ -67,7 +67,7 @@
 
 .buttonOverride {
   background: rgb(23, 52, 72) !important;
-  color: rgb(6, 211, 215) !important;
+  color: rgb(27, 215, 6, 1) !important;
   font-weight: 700 !important;
   width: 100%;
   min-width: 200px !important;

@@ -188,7 +188,7 @@
 
 .buttonOverride {
   background: rgb(23, 52, 72) !important;
-  color: rgb(6, 211, 215) !important;
+  color: rgb(27, 215, 6, 1) !important;
   font-weight: 700 !important;
 }
 
@@ -459,7 +459,7 @@
 }
 
 .backIcon {
-  color: #06D3D7 !important;
+  color: #1e743d !important;
 }
 
 .titleText {

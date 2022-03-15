@@ -45,7 +45,7 @@
 
 .buttonOverride {
   background: rgb(23, 52, 72) !important;
-  color: rgb(6, 211, 215) !important;
+  color: rgb(27, 215, 6, 1) !important;
   font-weight: 700 !important;
   width: 100%;
   min-width: 200px !important;
@@ -133,7 +133,7 @@
 .disclaimer {
   font-size: 13px !important;
   font-weight: 200 !important;
-  border: 1px solid rgb(6, 211, 215) !important;
+  border: 1px solid rgb(27, 215, 6, 1) !important;
   border-radius: 10px;
   background: rgb(23, 52, 72) !important;
   padding: 21.5px !important;

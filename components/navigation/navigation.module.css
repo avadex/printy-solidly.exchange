@@ -307,7 +307,7 @@ a.linkz { cursor: pointer !important; }
 } /* Transparent border to eliminate position jittering from Active state */
 
 .testChange {
-  border: 1px solid #06d3d7 !important;
+  border: 1px solid #1e743d !important;
   background-color: rgba(0,0,0,0) !important;
   color: #FFF !important;
 }
@@ -485,7 +485,7 @@ a.linkz { cursor: pointer !important; }
   }
 
   .testChange {
-    border: 1px solid #06d3d7 !important;
+    border: 1px solid #1e743d !important;
     background-color: rgba(0,0,0,0) !important;
     color: #FFF !important;
   }

@@ -9,7 +9,7 @@ import { bribeABI } from './bribeABI'
 import { tokenABI } from './tokenABI'
 import { veDistABI } from './veDistABI'
 import { minterABI } from './minterABI'
-import { wftmABI } from './wftmABI'
+import { wavaxABI } from './wavaxABI'
 import { solidlyLibraryABI } from './solidlyLibraryABI'
 
 export default {
@@ -24,6 +24,6 @@ export default {
   veDistABI,
   tokenABI,
   minterABI,
-  wftmABI,
+  wavaxABI,
   solidlyLibraryABI
 }

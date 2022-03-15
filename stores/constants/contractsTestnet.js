@@ -14,17 +14,17 @@ export const VE_TOKEN_DECIMALS = 18
 export const VE_TOKEN_LOGO = 'https://prod.solidly.exchange/Solidly-O.svg'
 export const VE_TOKEN_ABI = abis.veTokenABI
 
-export const WFTM_ADDRESS = '0x27Ce41c3cb9AdB5Edb2d8bE253A1c6A64Db8c96d'
-export const WFTM_NAME = 'Wrapped Fantom'
-export const WFTM_SYMBOL = 'WFTM'
-export const WFTM_DECIMALS = 18
-export const WFTM_ABI = abis.wftmABI
+export const WAVAX_ADDRESS = '0x27Ce41c3cb9AdB5Edb2d8bE253A1c6A64Db8c96d'
+export const WAVAX_NAME = 'Wrapped Avax'
+export const WAVAX_SYMBOL = 'WAVAX'
+export const WAVAX_DECIMALS = 18
+export const WAVAX_ABI = abis.wavaxABI
 
-export const FTM_ADDRESS = 'FTM'
-export const FTM_NAME = 'Fantom'
-export const FTM_SYMBOL = 'FTM'
-export const FTM_DECIMALS = 18
-export const FTM_LOGO = 'https://assets.coingecko.com/coins/images/4001/large/Fantom.png'
+export const AVAX_ADDRESS = 'AVAX'
+export const AVAX_NAME = 'Avax'
+export const AVAX_SYMBOL = 'AVAX'
+export const AVAX_DECIMALS = 18
+export const AVAX_LOGO = 'https://assets.coingecko.com/coins/images/4001/large/Avax.png'
 
 export const FACTORY_ADDRESS = '0x7dbA586e00D868EeFA13fC549B63D62b4a45a244'
 export const FACTORY_ABI = abis.factoryABI

@@ -34,7 +34,7 @@
 .userMenuIcon {
   padding: 0 !important;
   margin-right: -30px;
-  color: #06D3D7 !important;
+  color: #1e743d !important;
 }
 
 .appLogo {
@@ -321,7 +321,7 @@
 .testnetDisclaimerText {
   font-size: 13px !important;
   font-weight: 200 !important;
-  border: 1px solid rgb(6, 211, 215) !important;
+  border: 1px solid rgb(27, 215, 6, 1) !important;
   border-radius: 10px;
   background: rgb(23, 52, 72) !important;
   padding: 16px !important;

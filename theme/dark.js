@@ -7,11 +7,11 @@ const theme = createTheme({
   palette: {
     ...coreTheme.palette,
     background: {
-      default: "#131929",
-      paper: "rgb(25, 33, 56)"
+      default: "#0c2a2b",
+      paper: "rgb(28, 38, 68, 0.72)"
     },
     primary: {
-      main: "#06d3d7"
+      main: "#00fa2e"
     },
     text: {
       primary: "rgba(255, 255, 255, 0.87)",

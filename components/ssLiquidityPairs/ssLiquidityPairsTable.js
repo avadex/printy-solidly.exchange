@@ -390,7 +390,7 @@ const useStyles = makeStyles((theme) => ({
   filterButton: {
     background: '#111729',
     border: '1px solid rgba(126,153,176,0.3)',
-    color: '#06D3D7',
+    color: '#1e743d',
     width: '100%',
     height: '94.5%',
     borderRadius: '10px',
@@ -424,7 +424,7 @@ const useStyles = makeStyles((theme) => ({
     borderBottom: '1px solid rgba(126,153,176,0.2)',
   },
   infoIcon: {
-    color: '#06D3D7',
+    color: '#1e743d',
     fontSize: '16px',
     marginLeft: '10px',
   },
@@ -559,7 +559,7 @@ const EnhancedTableToolbar = (props) => {
           className={classes.searchContainer}
           variant="outlined"
           fullWidth
-          placeholder="FTM, MIM, 0x..."
+          placeholder="AVAX, MIM, 0x..."
           value={search}
           onChange={onSearchChanged}
           InputProps={{

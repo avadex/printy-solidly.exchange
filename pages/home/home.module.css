@@ -58,7 +58,7 @@
   font-family: 'Monument' !important;
   font-size: 18px !important;
   text-transform: uppercase;
-  color: #06D3D7 !important;
+  color: #1e743d !important;
   margin-bottom: 20px !important;
   font-weight: 100 !important;
   letter-spacing: 3px;
@@ -144,12 +144,12 @@
   padding: 12px 20px 10px 20px !important;
   min-width: 100% !important;
   text-transform: capitalize !important;
-  color: #06D3D7 !important;
+  color: #1e743d !important;
 }
 
 .floatingSphere {
-    height: 600px;
-    width: 600px;
+    height: 1000px;
+    width: 700px;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -159,7 +159,7 @@
     background-repeat: no-repeat;
     z-index: 1;
     mix-blend-mode: lighten;
-    opacity: 0.5;
+    opacity: 0.8;
 }
 
 @media screen and (max-width: 960px) {
